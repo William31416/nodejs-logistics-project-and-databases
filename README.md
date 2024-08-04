@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Node.js Logistics Management Workshop: Real Project
 
@@ -265,3 +266,6 @@ A vehicle is a machine used to transport goods. It has the following properties:
 - [fs](https://nodejs.org/api/fs.html)
 - [Middleware in Express](https://expressjs.com/en/guide/using-middleware.html)
 - [Difference between development and production dependencies](https://dev.to/therealdanvega/what-is-the-difference-between-dependencies-devdependencies-and-peerdependencies-in-a-npm-package-json-file-2b)
+=======
+# nodejs-logistics-project-and-databases
+>>>>>>> 8a5bbe668b401d316201d7871c46ad5ee7fc2963
